@@ -1,4 +1,5 @@
 ## Hello 👋, This is Jaime Martinez
+[![Linkedin Badge](https://img.shields.io/badge/-lohkrii-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lohkrii/)](https://www.linkedin.com/in/lohkrii/)
 [![Linkedin Badge](https://img.shields.io/badge/-jemn21819-0072b1?style=flat&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/jaime-martinez-9a765a185/)](https://www.linkedin.com/in/jaime-martinez-9a765a185/)
 [![Resume Badge](https://badgen.net/badge/My/Resume/blue?icon=atom)](https://drive.google.com/file/d/17hDx5Wcuf8MD8Q5nZVHOZFpiIK52MP4o/view?usp=sharingg)
 
